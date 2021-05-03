@@ -17,11 +17,11 @@
 
 <main>
 <h2>Practice</h2>
-<pre>
 <?php
-print('PHPを勉強中です！');
+// print('PHPを勉強中です！');
+print("I'm studying \"PHP\""); //エスケープ処理
+// print('こんばんは');
 ?>
-</pre>
 </main>
 </body>    
 </html>
